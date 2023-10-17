@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a47f99e02eb58e24aa1a413120d8f66a, type: 3}
+  m_Name: NoGravity
+  m_EditorClassIdentifier: 
+  itemName: NoGravity
+  address: 110
+  itemType: 0
+  itemSprite: {fileID: 7977636928843330302, guid: ba00d2cc9cfe3aa4dbabe584112b29a8,
+    type: 3}
+  price: 0
+  itemInfo: "4\uCD08 \uB3D9\uC548 \uD50C\uB808\uC774\uC5B4 \uC911\uB825\uAC12\uC744
+    \uB0AE\uCD98\uB2E4."
+  possession: 0
+  item: {fileID: -4079779116180838662, guid: 201a8603911ef744c9c576a60c8cbf57, type: 3}

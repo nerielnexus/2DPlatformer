@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1546900320944041954
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1546900320944041952}
+  - component: {fileID: 1546900320944041955}
+  - component: {fileID: 1546900320944041953}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1546900320944041952
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1546900320944041954}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 11.48665, y: 72.82522, z: -17.748598}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1546900320944041955
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1546900320944041954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bed3cb3491e275a42bb815ac4333628f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fireEffect: {fileID: 7594760321586725032, guid: 73f59a6bbcfabc14ba90b576e8731bd3,
+    type: 3}
+  waterEffect: {fileID: 7594760321586725032, guid: 73f59a6bbcfabc14ba90b576e8731bd3,
+    type: 3}
+  lightEffect: {fileID: 7594760321586725032, guid: 73f59a6bbcfabc14ba90b576e8731bd3,
+    type: 3}
+  darkEffect: {fileID: 7594760321586725032, guid: 73f59a6bbcfabc14ba90b576e8731bd3,
+    type: 3}
+--- !u!114 &1546900320944041953
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1546900320944041954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b225f79e63c9ae4abf3038de8cb771f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  invenUI: {fileID: 0}
+  scene: {fileID: 0}
+  saveData:
+    itemData: []
+    waeponData:
+      address: 0
+      itemName: 
+      itemType: 0
+      itemInfo: 
+      durability: 0
+      value: 0
+      enforceValue: 0
+      fire: 0
+      water: 0
+      light: 0
+      dark: 0
+      gemData: 
+    armorData:
+      address: 0
+      itemName: 
+      itemType: 0
+      itemInfo: 
+      durability: 0
+      value: 0
+      enforceValue: 0
+      fire: 0
+      water: 0
+      light: 0
+      dark: 0
+      gemData: 
+    stage: 0000000000

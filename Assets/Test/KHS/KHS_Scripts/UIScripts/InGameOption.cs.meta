@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6f9149b9f2d7f014ea8064cb02830ff1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - option: {instanceID: 0}
+  - soundbox: {instanceID: 0}
+  - endUIBox: {instanceID: 0}
+  - fireEfcStock: {instanceID: 0}
+  - waterEfcStock: {instanceID: 0}
+  - lightEfcStock: {instanceID: 0}
+  - darkEfcStock: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

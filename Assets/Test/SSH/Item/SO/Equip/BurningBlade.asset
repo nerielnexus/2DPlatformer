@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 372ce9cd9d295f94793572a2cf927098, type: 3}
+  m_Name: BurningBlade
+  m_EditorClassIdentifier: 
+  itemName: "\uBC84\uB2DD\uBE14\uB808\uC774\uB4DC"
+  address: 13
+  itemType: 2
+  itemSprite: {fileID: 5748496881196558489, guid: abc8454ac6dbc9b4aa014f99d8aa220b,
+    type: 3}
+  itemInfo: 
+  durability: 0
+  value: 20
+  enforceValue: 0
+  fire: 20
+  water: 0
+  light: 0
+  dark: 0

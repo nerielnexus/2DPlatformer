@@ -1,0 +1,49 @@
+{
+  "monsterList" :
+  [
+    {
+      "address": 1,
+      "name": "고블린_검",
+      "hp": 6,
+      "mp": 1,
+      "power": 2,
+      "move": 1,
+      "isAttack": 1,
+      "attackDamage": 0,
+      "speed": 2
+    },
+    {
+      "address": 2,
+      "name": "고블린_도끼",
+      "hp": 6,
+      "mp": 1,
+      "power": 2,
+      "move": 1,
+      "isAttack": 1,
+      "attackDamage": 0,
+      "speed": 2
+    },
+    {
+      "address": 3,
+      "name": "고블린_창",
+      "hp": 6,
+      "mp": 1,
+      "power": 2,
+      "move": 1,
+      "isAttack": 1,
+      "attackDamage": 0,
+      "speed": 2
+    },
+    {
+      "address": 4,
+      "name": "고블린_활",
+      "hp": 6,
+      "mp": 1,
+      "power": 2,
+      "move": 1,
+      "isAttack": 1,
+      "attackDamage": 0,
+      "speed": 2
+    }
+  ]
+}

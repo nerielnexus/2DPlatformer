@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 372ce9cd9d295f94793572a2cf927098, type: 3}
+  m_Name: HellFlare
+  m_EditorClassIdentifier: 
+  itemName: "\uD5EC\uD50C\uB808\uC5B4"
+  address: 14
+  itemType: 2
+  itemSprite: {fileID: 220957088735416767, guid: abc8454ac6dbc9b4aa014f99d8aa220b,
+    type: 3}
+  itemInfo: 
+  durability: 0
+  value: 30
+  enforceValue: 0
+  fire: 30
+  water: 0
+  light: 0
+  dark: 0

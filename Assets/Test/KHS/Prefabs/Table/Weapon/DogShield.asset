@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 372ce9cd9d295f94793572a2cf927098, type: 3}
+  m_Name: DogShield
+  m_EditorClassIdentifier: 
+  itemName: DogShield
+  address: 30
+  itemType: 3
+  itemSprite: {fileID: 21300000, guid: 77b1a923dc5646e45acaca5bcc519d10, type: 3}
+  price: 5000
+  itemInfo: "\uCCAB\uBC88\uC9F8 \uBC29\uD328"
+  durability: 10
+  value: 3
+  enforceValue: 0
+  fire: 0
+  water: 0
+  light: 0
+  dark: 0
